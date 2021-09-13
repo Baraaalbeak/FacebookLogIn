@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(233, 240, 240);
+}
+#InformationsArea{
+    /* background-color: darkkhaki; */
+    margin: 170px;
+}
+#LeftDiv{
+    display: inline-block;
+    height: 496px;
+    width: 396px;
+    /* background-color: darkgreen; */
+    text-align: center;
+}
+#LogInDiv{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    height: 349px;
+    width: 396px;
+}
+.TextBox{
+    text-align:center ;
+    width: 90%;
+    padding: 10px;
+}
+#LogInButton{
+    width: 96%;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    background-color: rgb(5, 112, 253)
+}
+#CreatButton{
+    width: 60%;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(42, 201, 68);
+}
+#RecentLogins{
+    text-align: left;
+    display: inline-block;
+    height: 496px;
+    width: 592px;
+    /* background-color: rgb(189, 107, 175); */
+}
+#Facebook{
+    color: rgb(5, 112, 253);
+    font-size: 45px;
+}
+#AddAccount{
+    height: 170px;
+    width: 140px;
+    color: rgb(5, 112, 253);
+}
